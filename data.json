@@ -1,7 +1,12 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "file": "experiments/eyes.js",
+    "name": "Eyes Without a Face",
+    "description": "This generative artwork creates a grid of unique, human-like eyes inspired by the song “Eyes Without a Face.” It explores themes of presence and absence by reducing the human face to its most expressive feature. Written in p5.js, the code randomly varies iris colours, shapes, lashes and brows to ensure each eye is different. The system layers these elements with soft shadows on a muted background to form a living mosaic of gazes."
+  },
+  {
+    "file": "experiments/gold.js",
+    "name": "Golden squares",
+    "description": "A generative grid of layered golden squares with subtle shadows, evoking shimmering tiles."
   }
 ]

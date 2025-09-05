@@ -1,6 +1,6 @@
 function setup() {
   createCanvas(innerWidth, innerHeight);
-  noLoop(); //draw it once
+  //noLoop(); //draw it once
   rectMode(CENTER);
 }
 
